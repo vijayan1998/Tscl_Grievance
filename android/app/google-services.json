@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940022936447",
+    "project_id": "tscluser-36d6e",
+    "storage_bucket": "tscluser-36d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940022936447:android:aef127ed11c8d502ab204a",
+        "android_client_info": {
+          "package_name": "com.tscl.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1Y80OuQP_fUzSCgjjXLeQ-yhNeKUQYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
